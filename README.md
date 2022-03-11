@@ -1,17 +1,20 @@
-#                               %%%%%%%%%%%%%%%%%%%%%%%%
-                               CS453 - PROJECT 2 README
-                               %%%%%%%%%%%%%%%%%%%%%%%%
-                        Authors: Neil Lukowski & James Nelson
-                                 Date: 1 March 2022
--------------------------------------------------------------------------------
-                                    Description 
-        This project utilizes the sailing database to examine the
-        usefulness of several SQL operations including correlated
-        subqueries, with statements, and exists clauses. Files were
-        generated to drop tables, create tables, fill tables with sample
-        data, and execute query statements. The code in this project was
-        compiled in accordance with the standards of project 2 of CS453.
--------------------------------------------------------------------------------
+# CS453 - PROJECT 2 README
+---
+
+Authors: Neil Lukowski & James Nelson
+Date: 1 March 2022
+
+---
+Description:
+
+This project utilizes the sailing database to examine the
+usefulness of several SQL operations including correlated
+subqueries, with statements, and exists clauses. Files were
+generated to drop tables, create tables, fill tables with sample
+data, and execute query statements. The code in this project was
+compiled in accordance with the standards of project 2 of CS453.
+
+---
 
 File Description
 ----------------
